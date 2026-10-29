@@ -1,7 +1,7 @@
 # Human Activity Recognition with a Hidden Markov Model
 
 Formative 2 – Hidden Markov Models | African Leadership University | October 2026
-Author: **[Your full name]** (individual work)
+Author: **Mutesi uwase sonia**
 
 This project recognises four human activities (**standing, walking, jumping, still**) from smartphone accelerometer and gyroscope data. It uses a Hidden Markov Model (HMM) written **from scratch with numpy**, trained with **Baum-Welch** and decoded with **Viterbi**.
 
@@ -39,10 +39,10 @@ This project recognises four human activities (**standing, walking, jumping, sti
 
 ### Videos of data collection (one 5-second video per activity)
 
-- Standing: [paste link]
-- Walking: [paste link]
-- Jumping: [paste link]
-- Still: [paste link]
+- Standing: https://youtube.com/shorts/fhX3pXr-Ppw
+- Walking: https://youtube.com/shorts/6CbKojmvcE0
+- Jumping: https://youtube.com/shorts/clAzHkj_k2w
+- Still: https://youtube.com/shorts/R-ZGG4enif4?feature=share
 
 ## Method
 
